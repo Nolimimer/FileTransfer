@@ -1,0 +1,44 @@
+INFO:root: Logging started 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+INFO:root: Moved /Users/michaelschott/Downloads/move.txt to /Users/michaelschott/MoveHerefe/femove.txt
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+INFO:root: Moved /Users/michaelschott/Downloads/move.txt to /Users/michaelschott/MoveHerefe/femove.txt
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/text.txtfe' -> '/Users/michaelschott/MoveHerefe/fetext.txtfe'
+INFO:root: Moved /Users/michaelschott/Downloads/text.txtfe to /Users/michaelschott/MoveHerefe/fetext.txtfe
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+INFO:root: Moved /Users/michaelschott/Downloads/move.txt to /Users/michaelschott/MoveHerefe/femove.txt
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/text.txtfe' -> '/Users/michaelschott/MoveHerefe/fetext.txtfe'
+INFO:root: Moved /Users/michaelschott/Downloads/text.txtfe to /Users/michaelschott/MoveHerefe/fetext.txtfe
+INFO:root: Running, timestamp: [Fri Apr 24 23:01:38 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:01:48 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:01:58 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:02:08 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:02:18 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:02:28 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:02:38 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:02:48 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:02:58 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:03:08 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:03:18 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:03:28 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:03:38 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:03:48 2020]
+INFO:root: Running, timestamp: [Fri Apr 24 23:03:58 2020]
+INFO:root: Logging started 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+WARNING:root: Please look at your destionation path and whether the path exists 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/text.txtfe' -> '/Users/michaelschott/MoveHerefe/fetext.txtfe'
+WARNING:root: Please look at your destionation path and whether the path exists 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+WARNING:root: Please look at your destionation path and whether the path exists 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+WARNING:root: Please look at your destionation path and whether the path exists 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+WARNING:root: Please look at your destionation path and whether the path exists 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/text.txtfe' -> '/Users/michaelschott/MoveHerefe/fetext.txtfe'
+WARNING:root: Please look at your destionation path and whether the path exists 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/move.txt' -> '/Users/michaelschott/MoveHerefe/femove.txt'
+WARNING:root: Please look at your destionation path and whether the path exists 
+WARNING:root:[Errno 2] No such file or directory: '/Users/michaelschott/Downloads/text.txtfe' -> '/Users/michaelschott/MoveHerefe/fetext.txtfe'
+WARNING:root: Please look at your destionation path and whether the path exists 
+INFO:root: Running, timestamp: [Fri Apr 24 23:04:17 2020]
