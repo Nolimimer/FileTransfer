@@ -13,16 +13,17 @@ class DownloadFileHandler(FileSystemEventHandler):
     def on_modified(self, event):
         for filename in os.listdir(folder_to_track):
             if not(filename.startswith(".")):
-                for key in sortDict.keys():
-                    if filename.__contains__(key):
+                for pattern in sortDict.keys():
+                    if re.search(pattern, filename):
+                        logging.info(" Regex matched: " + pattern + " with Filename: " +  filename)
                         src = folder_to_track + "/" + filename
-                        to = sortDict.get(key) + "fe/fe" + filename
+                        to = sortDict.get(pattern) + "/" + filename
                         try:
                             os.rename(src, to)
-                            logging.info(" Moved " + src + " to " + to)  
+                            logging.info(" Moved " + src + " to " + to) 
                         except FileNotFoundError as Identifier:
                             logging.warning(Identifier)
-                            logging.warning(" Please look at your destionation path and whether the path exists. ")
+                            logging.warning(" Please look at your destination path and whether the path exists. ")
                                  
 
 # Config      
